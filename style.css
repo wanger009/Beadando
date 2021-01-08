@@ -1,0 +1,75 @@
+body {
+  background-image: url(hatter.jpg) ;
+  
+}
+.fejlec {
+    background-image: url(fejlec.jpg);
+    width: 1100px ;
+    height: 150px ;
+    background-repeat: no-repeat;
+    background-position: top;
+    margin-top: 0px;
+    background-size: cover;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+.menukep {
+    background-image: url(menukep.jpg);
+    width: 300px ;
+    height: 700px ;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-size: 325px;
+    background-color: #E8E8E8;    
+    float: left;
+    padding: 0%;
+}
+
+.tartalomkep{
+    background-image: url(tartalomkep.jpg);
+    width: 825px ;
+    height: 700px ;
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-left: 600px;
+    background-size: cover;
+    margin-right: 300px;
+    margin-bottom: 200px;
+    padding: 0%;
+    
+}
+h1 {
+    margin-right: 250px;
+    margin-left: 370px;
+    margin-top: 50px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: rgb(180, 26, 26);
+    font-size: 35px;
+    margin-left: 20px;    
+}
+p{
+   
+    font-size: 20px;
+}
+ul{
+    margin-left: 30px; 
+    color: rgb(180, 26, 26);
+}
+.pp1{
+    display: inline;
+    font-size: 20px;
+}
+.pp2{
+    display: inline;
+    font-size: 21px;
+}
+.pp3{
+    display: inline;
+    font-size: 22px;
+}
